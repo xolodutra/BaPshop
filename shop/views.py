@@ -3,5 +3,3 @@ from .models import Category, Product
 
 ''' Страница с товарами '''
 
-
-def 
